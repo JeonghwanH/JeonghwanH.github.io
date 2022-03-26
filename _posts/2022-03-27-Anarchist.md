@@ -8,5 +8,5 @@ layout: post
 
 The motto: <a href="https://twitter.com/anarchists_nft?lang=en">Financial Freedom and Autonomy for all!</a>
 
-<span class="image centered"><img src="assets/images/NFTs/Anarchist #190.jpeg" alt="" /></span>
+<span class="image centered"><img src="assets/images/NFTs/Anarchist_#190.jpeg" alt="" /></span>
 So cool!
