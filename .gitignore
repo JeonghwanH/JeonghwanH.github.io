@@ -5,3 +5,4 @@ Gemfile.lock
 oldREADME.md
 /_samples/*.md
 /_samples/*.html
+/_sections/welcome-to-jekyll.md
