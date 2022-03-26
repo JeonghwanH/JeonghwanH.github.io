@@ -8,9 +8,9 @@ layout: post
 
 I have minted two Astro Punks NFTs.
 My first NFT minted is Valkyrie ape.
-<span class="image centered"><img src="assets/images/NFTs/AstroPunk_#329.jpg" alt="" /></span>
+<span class="image centered"><img src="assets/images/AstroPunk_#329.jpg" alt="" /></span>
 And here's one more man from Terra.
-<span class="image centered"><img src="assets/images/NFTs/AstroPunk_#1002.jpg" alt="" /></span>
+<span class="image centered"><img src="assets/images/AstroPunk_#1002.jpg" alt="" /></span>
 
 Great experience to first mint my truly own digital assets.
 And.. it's a bit addictive to draw randomly chosen properties.
