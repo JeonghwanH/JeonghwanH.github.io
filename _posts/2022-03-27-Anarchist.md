@@ -1,5 +1,5 @@
 ---
-title: Anarchist
+title: Anarchists on Terra
 author: Jeonghwan
 layout: post
 ---
