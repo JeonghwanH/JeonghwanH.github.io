@@ -9,6 +9,5 @@ layout: post
 
 Minted a kingkong from <a href="https://randomearth.io/collections/terra12gv7p8hymfv9zv6qnu2nedksd44tvcr7fvfvvf">TerraKongs v2</a>
 
-<span class="image left"><img src="{{ 'assets/images/NFTs/TerraKongs v2 #1963.jpeg' | relative_url }}" alt="" /></span>
-
+<span class="image centered"><img src="assets/images/NFTs/TerraKongs v2 #1963.jpeg" alt="" /></span>
 I like him...
