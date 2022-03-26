@@ -3,4 +3,5 @@
 .sass-cache
 Gemfile.lock
 oldREADME.md
-/samples/
+/samples/*.md
+/samples/*.html
