@@ -8,9 +8,9 @@ layout: post
 
 I have minted two Astro Punks NFTs.
 My first NFT minted is Valkyrie ape.
-<a href="https://knowhere.art/collections/terra1ty4u8tcf2cq9m86zgs42gg8szj4ulakcf0ka4k"><span class="image centered"><img src="{{ 'assets/images/AstroPunk_#329.jpg' | relative_url }}" alt="" /></span></a>
+<a href="https://knowhere.art/collections/terra1ty4u8tcf2cq9m86zgs42gg8szj4ulakcf0ka4k"><span class="image centered"><img src="{{ 'assets/images/AstroPunk_329.jpg' | relative_url }}" alt="" /></span></a>
 And here's one more man from Terra.
-<a href="https://knowhere.art/collections/terra1ty4u8tcf2cq9m86zgs42gg8szj4ulakcf0ka4k"><span class="image centered"><img src="{{ 'assets/images/AstroPunk_#1002.jpg' | relative_url }}" alt="" /></span></a>
+<a href="https://knowhere.art/collections/terra1ty4u8tcf2cq9m86zgs42gg8szj4ulakcf0ka4k"><span class="image centered"><img src="{{ 'assets/images/AstroPunk_1002.jpg' | relative_url }}" alt="" /></span></a>
 
 Great experience to first mint my truly own digital assets.
 And.. it's a bit addictive to draw randomly chosen properties.
